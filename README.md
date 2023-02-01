@@ -16,3 +16,6 @@ The dataset is entirely built (clipped) by us. Yet we do not own the original au
 We labled the 600 files in two different ways, one with five emotions (label_categorical.csv) and the other with two emotions (label_binary.csv).
 The binary label essentially turns the 'angry', 'sad', and 'fearful' in categorical label into 'negative' in binary label, and 'happy' and 'neutral' in categorical label into 'neutral' in binary label.
 We actually tried listen to the clips again and relabel with binary, but after the first 100 clips we found out that the new label is the same as directly relabel from categorical.
+
+ 
+ 
